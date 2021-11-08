@@ -1,0 +1,21 @@
+{
+    "name": "elzobrito/olivia-router-mail",
+    "description": "FrameWork Olivia",
+    "authors": [
+        {
+            "name": "elzobrito",
+            "email": "elzo.filho@etec.sp.gov.br"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "OliviaRouterMail\\": "src/",
+            "OliviaLib\\": "lib/"
+        }
+    },
+    "require": {
+        "php": "^7.2.5|^8.0",
+        "elzobrito/olivia-databaselibrary": "^1.1",
+        "phpmailer/phpmailer": "^6.5"
+    }
+}
