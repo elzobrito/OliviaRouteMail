@@ -1,6 +1,6 @@
 <?php
 
-namespace OliviaLib;
+namespace OliviaRouterMailLib;
 
 use OliviaDatabaseLibrary\ADatabase;
 

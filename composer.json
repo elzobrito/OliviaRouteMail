@@ -10,7 +10,7 @@
     "autoload": {
         "psr-4": {
             "OliviaRouterMail\\": "src/",
-            "OliviaLib\\": "lib/"
+            "OliviaRouterMailLib\\": "lib/"
         }
     },
     "require": {
