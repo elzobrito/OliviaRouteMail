@@ -2,8 +2,8 @@
 
 namespace OliviaRouterMail\Classes;
 
-use OliviaLib\CommandController;
-use OliviaLib\Email;
+use OliviaRouterMailLib\CommandController;
+use OliviaRouterMailLib\Email;
 use OliviaRouterMail\Models\Mail;
 use OliviaRouterMail\Models\MailDestinatario;
 use OliviaRouterMail\Models\MailRemetente;

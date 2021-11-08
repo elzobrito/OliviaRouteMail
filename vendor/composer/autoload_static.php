@@ -14,7 +14,7 @@ class ComposerStaticInit0035c560a31421a7fa96dd388c1ccc1e
         'O' => 
         array (
             'OliviaRouterMail\\' => 17,
-            'OliviaLib\\' => 10,
+            'OliviaRouterMailLib\\' => 20,
             'OliviaDatabasePublico\\' => 22,
             'OliviaDatabaseModel\\' => 20,
             'OliviaDatabaseLibrary\\' => 22,
@@ -31,7 +31,7 @@ class ComposerStaticInit0035c560a31421a7fa96dd388c1ccc1e
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),
-        'OliviaLib\\' => 
+        'OliviaRouterMailLib\\' => 
         array (
             0 => __DIR__ . '/../..' . '/lib',
         ),

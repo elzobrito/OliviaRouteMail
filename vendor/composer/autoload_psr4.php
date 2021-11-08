@@ -8,7 +8,7 @@ $baseDir = dirname($vendorDir);
 return array(
     'PHPMailer\\PHPMailer\\' => array($vendorDir . '/phpmailer/phpmailer/src'),
     'OliviaRouterMail\\' => array($baseDir . '/src'),
-    'OliviaLib\\' => array($baseDir . '/lib'),
+    'OliviaRouterMailLib\\' => array($baseDir . '/lib'),
     'OliviaDatabasePublico\\' => array($vendorDir . '/elzobrito/olivia-databaselibrary/public_html'),
     'OliviaDatabaseModel\\' => array($vendorDir . '/elzobrito/olivia-databaselibrary/model'),
     'OliviaDatabaseLibrary\\' => array($vendorDir . '/elzobrito/olivia-databaselibrary/src'),
